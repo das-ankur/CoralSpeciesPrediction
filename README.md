@@ -1,2 +1,2 @@
 # CoralSpeciesPrediction
-The project will help to predict coral species but I lost the dataset.
+The project will help to predict coral species suding K-Means algorithm for clustering.
